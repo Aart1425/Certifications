@@ -42,7 +42,7 @@ I am continuously developing my technical skills through certifications, interns
 - Python
 - Pandas
 
-📁 Certificate: [View Certificate](./Data-Analytics/ADDA.jpg)
+📁 Certificate: [View Certificate](./Data-Analytics/ADDA.jpeg)
 
 ---
 
@@ -54,7 +54,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Domain:** Data Analytics
 
-📁 Certificate: [View Certificate](./Data-Analytics/DAintern.jpg)
+📁 Certificate: [View Certificate](./Data-Analytics/DAintern.jpeg)
 
 ---
 
@@ -66,7 +66,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Domain:** Data Analytics
 
-📁 Certificate: [View Certificate](./Data-Analytics/DAmasterclass.jpg)
+📁 Certificate: [View Certificate](./Data-Analytics/DAmasterclass.jpeg)
 
 ---
 
@@ -82,7 +82,7 @@ I am continuously developing my technical skills through certifications, interns
 - Power BI
 - Data Analytics
 
-📁 Certificate: [View Certificate](./Data-Analytics/DAwitSQL&POwerBi.jpg)
+📁 Certificate: [View Certificate](./Data-Analytics/DAwitSQL&POwerBi.jpeg)
 
 ---
 
@@ -96,7 +96,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Domain:** Artificial Intelligence
 
-📁 Certificate: [View Certificate](./Artificial-Intelligence/AIintern.jpg)
+📁 Certificate: [View Certificate](./Artificial-Intelligence/AIintern.jpeg)
 
 ---
 
@@ -108,7 +108,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Domain:** Machine Learning
 
-📁 Certificate: [View Certificate](./Artificial-Intelligence/MLintern.jpg)
+📁 Certificate: [View Certificate](./Artificial-Intelligence/MLintern.jpeg)
 
 ---
 
@@ -122,7 +122,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Topic:** SQL
 
-📁 Certificate: [View Certificate](./Programming-and-Database/SQLHiringSecretsnovitech.jpg)
+📁 Certificate: [View Certificate](./Programming-and-Database/SQLHiringSecretsnovitech.jpeg)
 
 ---
 
@@ -142,7 +142,7 @@ I am continuously developing my technical skills through certifications, interns
 - Front-End Concepts
 - Internet
 
-📁 Certificate: [View Certificate](./Programming-and-Database/DCA.jpg)
+📁 Certificate: [View Certificate](./Programming-and-Database/DCA.jpeg)
 
 ---
 
@@ -206,18 +206,18 @@ certifications/
 ├── README.md
 │
 ├── Data-Analytics/
-│   ├── Advanced-Diploma-in-Data-Analytics.jpg
-│   ├── Data-Analytics-Internship.jpg
-│   ├── Data-Analytics-Masterclass.jpg
-│   └── Applied-Data-Analytics-SQL-Power-BI.jpg
+│   ├── Advanced-Diploma-in-Data-Analytics.jpeg
+│   ├── Data-Analytics-Internship.jpeg
+│   ├── Data-Analytics-Masterclass.jpeg
+│   └── Applied-Data-Analytics-SQL-Power-BI.jpeg
 │
 ├── Artificial-Intelligence/
-│   ├── Artificial-Intelligence-Internship.jpg
-│   └── Machine-Learning-Internship.jpg
+│   ├── Artificial-Intelligence-Internship.jpeg
+│   └── Machine-Learning-Internship.jpeg
 │
 ├── Programming-and-Database/
-│   ├── Diploma-in-Computer-Applications.jpg
-│   └── SQL-Hiring-Secrets.jpg
+│   ├── Diploma-in-Computer-Applications.jpeg
+│   └── SQL-Hiring-Secrets.jpeg
 │
 └── Academic-Certifications/
     └── Mobile-Virtual-Reality-and-AI.jpg
