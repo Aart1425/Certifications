@@ -160,6 +160,21 @@ I am continuously developing my technical skills through certifications, interns
 
 📁 Certificate: [View Certificate](./Academic-Certifications/MVR-&-AI.jpg)
 
+
+## 🏆 Research Paper Presentation – ICETS'26
+
+**Paper Title:** Enhanced Cardiovascular Disease Risk Prediction From Retinal Vasculature using DenseNet121 in DR and HR Patients
+
+**Event:** 10th International Conference on Engineering Technology and Science (ICETS'26)
+
+**Date:** 28 March 2026
+
+**Achievement:** Presented a research paper at an international conference.
+
+**Organized by:** Muthayammal College of Engineering, Rasipuram, Tamil Nadu
+
+📁 Certificate: [View Certificate](./Academic-Certifications/journal.jpg)
+
 ---
 
 # 🛠️ Technical Skills
