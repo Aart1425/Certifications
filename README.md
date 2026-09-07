@@ -54,7 +54,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Domain:** Data Analytics
 
-📁 Certificate: [View Certificate](./Data-Analytics/DAintern.jpeg)
+📁 Certificate: [View Certificate](./Data-Analytics/DA-intern.jpeg)
 
 ---
 
@@ -66,7 +66,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Domain:** Data Analytics
 
-📁 Certificate: [View Certificate](./Data-Analytics/DAmasterclass.jpeg)
+📁 Certificate: [View Certificate](./Data-Analytics/DA-masterclass.jpeg)
 
 ---
 
@@ -82,7 +82,7 @@ I am continuously developing my technical skills through certifications, interns
 - Power BI
 - Data Analytics
 
-📁 Certificate: [View Certificate](./Data-Analytics/DAwitSQL&POwerBi.jpeg)
+📁 Certificate: [View Certificate](./Data-Analytics/DA-with-SQL-Power-Bi.jpeg)
 
 ---
 
@@ -96,7 +96,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Domain:** Artificial Intelligence
 
-📁 Certificate: [View Certificate](./Artificial-Intelligence/AIintern.jpeg)
+📁 Certificate: [View Certificate](./Artificial-Intelligence/AI-intern.jpeg)
 
 ---
 
@@ -108,7 +108,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Domain:** Machine Learning
 
-📁 Certificate: [View Certificate](./Artificial-Intelligence/MLintern.jpeg)
+📁 Certificate: [View Certificate](./Artificial-Intelligence/ML-intern.jpeg)
 
 ---
 
@@ -122,7 +122,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Topic:** SQL
 
-📁 Certificate: [View Certificate](./Programming-and-Database/SQLHiringSecretsnovitech.jpeg)
+📁 Certificate: [View Certificate](./Programming-and-Database/DCA.jpeg)
 
 ---
 
@@ -142,7 +142,7 @@ I am continuously developing my technical skills through certifications, interns
 - Front-End Concepts
 - Internet
 
-📁 Certificate: [View Certificate](./Programming-and-Database/DCA.jpeg)
+📁 Certificate: [View Certificate](./Programming-and-Database/SQL-Hiring-Secrets-novitech.jpeg)
 
 ---
 
@@ -158,7 +158,7 @@ I am continuously developing my technical skills through certifications, interns
 
 **Consolidated Score:** 57%
 
-📁 Certificate: [View Certificate](./Academic-Certifications/MVR&AI.jpg)
+📁 Certificate: [View Certificate](./Academic-Certifications/MVR-&-AI.jpg)
 
 ---
 
